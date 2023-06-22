@@ -1,0 +1,6 @@
+{
+    "keys": [
+        { "kty":"RSA", "e": "AQAB", "kid": "001", "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi8hQbmfh7hEOoPcMatNjwtRwpGwI4U87/sZX6rhkYDtIxZUH7vBi5O7NmRovDDn/JhgiEk7m/rADfULxQa6CxF2BGvU63doTSJCorQAAhZhRffvUgAPxXpMPis7tkc0C9V7ByFsKmH1KFN2kLcr0tcicJHazZ9FQWcxX25+SxuUyfFEdT3M5FHSzs/veqxSn37R1l9VKs/4o/caCrDZwyOpim1c7NxOppTPnzi//o4wMJ6wF81acQrAx9rVPoEiBZRtizRY794srMNidlWpylw2RxfuqgNCxLdA6Y0jYJBcEwJ6xwSLz42AqUwJN445sbYKXEGb/MUhvdShcBR7mnwIDAQAB" },
+        { "kty":"EC", "kid": "002", "crv": "P-384", "x": "C1uWSXj2czCDwMTLWV5BFmwxdM6PX9p-Pk9Yf9rIf374m5XP1U8q79dBhLSIuaoj", "y": "svOT39UUcPJROSD1FqYLued0rXiooIii1D3jaW6pmGVJFhodzC31cy5sfOYotrzF" }
+    ]
+}
